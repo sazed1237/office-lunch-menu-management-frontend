@@ -1,4 +1,4 @@
-##Office Lunch Menu Management Frontend
+#Office Lunch Menu Management Frontend
 
 Welcome to the Office Lunch Menu Management Frontend repository! This project is a web-based application to manage and display lunch menus in an office setting. It is built with modern web technologies including React, Redux Toolkit, and Vite.
 
